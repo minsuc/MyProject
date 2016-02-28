@@ -3,7 +3,6 @@
 # Jesus Fernandez-Villaverde
 # Haverford, July 29, 2013
 
-function main()
     
     ##  1. Calibration
 
@@ -100,4 +99,3 @@ function main()
     println(" ")
     println(" My check = ", mPolicyFunction[1000,3])
 
-end

@@ -3,7 +3,8 @@
 # Jesus Fernandez-Villaverde
 # Haverford, July 29, 2013
 
-function main_encap()    
+function main() 
+   
     ##  1. Calibration
 
     aalpha = 1/3     # Elasticity of output w.r.t. capital
